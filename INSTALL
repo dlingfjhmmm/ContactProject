@@ -1,0 +1,13 @@
+配置、编译和安装该项目的说明信息
+配置流程：
+1.通过Supsystic插件下载实时聊天
+2.取消存档实时聊天支持插件
+3.通过Supsystic插件通过Live Chat复制文件夹
+4.通过Supsystic打开ftp \ wp-content \ plugins \实时聊天
+5.将插件文件夹粘贴到该文件夹中
+6.转到管理面板=>打开项目“插件” =>通过Supsystic插件激活实时聊天
+安装：
+1.在后台搜索 Live Chat by Supsystic 进行在线安装
+2.Live Chat by Supsystic 有专业版，需要付费购买，如果你需要专业版的一些功能（数据统计、某些选项），可以自己考虑购买：http://supsystic.com/plugins/live-chat/
+	
+3.倡萌已汉化该插件的免费版，点此下载简体中文包，解压后上传到该插件的 lang 目录即可。
